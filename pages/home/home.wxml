@@ -1,0 +1,4 @@
+<!--pages/home/home.wxml-->
+<swiper-item></swiper-item>
+<text>hello </text>
+<button size="mini">按键</button>
